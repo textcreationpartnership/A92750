@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A paire of cristall spectacles with which any man may see plainly at a miles distance, into the councells of the Army and take a full view of the grounds of all their designes. Published for the satisfaction of al those who will drink his Majesties health, sing Vive le Roy, and cry God blesse King Charles. But chiefly made for the City of London. By a Member of the House of Commons.</title>
+            <author>Scott, Thomas, d. 1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92750</idno>
+            <idno type="STC">Wing S2088</idno>
+            <idno type="STC">Thomason E476_30</idno>
+            <idno type="STC">ESTC R205512</idno>
+            <idno type="EEBO-CITATION">99864871</idno>
+            <idno type="PROQUEST">99864871</idno>
+            <idno type="VID">162509</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92750)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162509)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E476[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A paire of cristall spectacles with which any man may see plainly at a miles distance, into the councells of the Army and take a full view of the grounds of all their designes. Published for the satisfaction of al those who will drink his Majesties health, sing Vive le Roy, and cry God blesse King Charles. But chiefly made for the City of London. By a Member of the House of Commons.</title>
+                  <author>Scott, Thomas, d. 1660.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Called Mr. Scott"; "Decemb: 18th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162509:1" rendition="simple:additions"/>
+            <figure>
+               <figDesc>pair of spectacles</figDesc>
+            </figure>
+            <p>
+               <hi>By a Member of the Houſe of Commons.</hi>
+            </p>
+            <p>Printed in the Yeare 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162509:2"/>
+            <pb n="1" facs="tcp:162509:2"/>
+            <head>A Paire of Chriſtall SPECTACKLES.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N the firſt place I will begin with our Brethren of <hi>Scotland</hi> Commiſſioners, what rare contradi<g ref="char:EOLhyphen"/>ctions and practices they held forth in their pa<g ref="char:EOLhyphen"/>pers, ſometimes the King muſt not come to <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> or be admitted to a perſonall Treaty, untill he hath given ſecurity and ſatisfaction for all the Innocent blood he hath ſhed, &amp;c. And then again, he muſt come without either, and ſometimes Propoſitions and no perſonall Treaty, and at other times a perſonall Treaty and no Propoſitions, which are impoſitions, ſometimes the King muſt take the Co<g ref="char:EOLhyphen"/>venant, other-while if he come not to the length of our deſire in ſo doing, we muſt be content; and ſometimes they tell the King upon his refuſing the Propoſitions, both kingdoms will be conſtrained, for mutuall defence and ſafety, to agree to ſet<g ref="char:EOLhyphen"/>tle Religion and Peace without him; and then upon the turn of the tyde, they tell us we muſt waite untill God change his heart, and for the ſafety of the Kingdome the Army muſt be disbanded, the King inveſted in the Militia, or it in him; and when our Commiſſioners in <hi>Scotland</hi> tel them <hi>Barwick</hi> and <hi>Car<g ref="char:EOLhyphen"/>liſle</hi> are taken, and demand reparations againſt thoſe Malig<g ref="char:EOLhyphen"/>nants and Incendiaries they protected; they Anſwer, that when they know the parties names that have taken them, and the certainty thoſe Gariſons be taken, then they will give the Parliament an anſwer; And were not they and their facti<g ref="char:EOLhyphen"/>on with the King, and all the Malignants and Papiſts, the firſt contrivers and abettors of this laſt perſonall Treaty; the King and his party being wholly conquered, and having no hopes but this left, which the Parliament, in the heat of all their War, with the advice of the Kingdome of <hi>Scotland,</hi> would ne<g ref="char:EOLhyphen"/>ver admit of: For had not the Lord <hi>Goring</hi> told you in his for<g ref="char:EOLhyphen"/>mer intercepted Letters, that if the King could but cudgell the Parliament into a Treaty, the King had brought his deſignes to perfection; and reported of the King himſelf, that he ſhould
+<pb n="2" facs="tcp:162509:3"/>ſay, then it ſhould not be in the power of men nor Devils, in hindring him from bringing al his Deſignes to his own hearts deſire: Have you forgot how the laſt invitation of the <hi>Scots</hi> into <hi>England,</hi> and the Rebellions of <hi>Wales, Kent,</hi> and <hi>Eſſex,</hi> &amp;c. and by whom countenanced? and in this laſt Treaty, with what a ſlight hand were Delinquents beaten, the firſt and laſt war, in this Treaty hath been paſſed over, and many ſeemed to be ſatisfied with the Kings Anſwer, though he will neither part from Epiſcopacy nor their Lands, nor with Delinquents, which by Covenant, Promiſe, and publique Faith, we cannot comply with the King therein: And have you forgotten the Kings unparalell Uxoriouſneſſe and affections to the Queen? For doth he not tell you under his own hand, in his Letters ta<g ref="char:EOLhyphen"/>ken at <hi>Nazeby, That he will be ever conſtant to the Rules and Grounds in the Little paper the Queen left with him?</hi> and <hi>That hee would not deſert the Biſhops, and Papiſts, the Queen and his best friends:</hi> And hath he not indevoured to bring in <hi>Iriſh</hi> and <hi>French</hi> Forces, &amp;c. and promiſeth to ſuſpend all Laws againſt all Papiſts, both in <hi>England</hi> and <hi>Ireland?</hi> And have you forgotten the Queens Let<g ref="char:EOLhyphen"/>ter, wherein ſhe adviſeth him in the firſt place to disband this perpetuall Parliament, and then ſhe ſaith, <hi>All the reſt will eaſily follow.</hi> And be Judge your ſelves, if all the Papiſts in all the 3 Kingdoms do not oppoſe this Parliament, and their friends that are moſt active, and were not Parliaments ever called by the King, <hi>Factious,</hi> &amp;c. becauſe they alwayes ſtood in his way againſt the bringing in of Popery and tyranny. And hath he not indevoured with the Biſhops, and by juggling deſignes, by degrees to cheat us of our Religion, and to ſettle popery and Tyranny? And hath he not indevoured to ſtirre up factions and differences between the honeſt party in <hi>England</hi> &amp; <hi>Scotland;</hi> that he might take advantage by ſuch Deviſion? And hath not he often broken his promiſe and proteſtations in many parti<g ref="char:EOLhyphen"/>culars which might be named? And did he not openly declare in Parliament, that he owes an account of his actions to none but to God alone, and that the Houſes of Parliament, joynt, or ſeparate, have no power to make or declare a Law without him? And have you forgot what hath been reported about <hi>King Jamſes</hi> death, and Marquis <hi>Hambleton?</hi> and what cutting
+<pb n="3" facs="tcp:162509:3"/>and ſlitting of noſes have been before this preſent Parliament; and Loans, Shipmony, Star-Chamber, Councel Table, High Commiſſi<g ref="char:EOLhyphen"/>on Court, &amp; Court of Wards, Monopolies; Knight-hood, inlarging of Forreſts incloſing of Commons, and ingroſing of Gun powder, Judges turned out of their places for doing their duties, and many hundred of other particulars might be here named; And were not the people forbidden ſo much as to ſpeak of a Parliam. and when a Parliament was inforced to be called in <hi>May</hi> 1640. was it not diſſolved after 14 dayes, becauſe they would not ingage againſt the Kingdom, in a War againſt the Scots? And is his Deſign in bringing up the Northern Armies forgotten? And his large offers to the Scots Army to be brought up to <hi>London</hi> to awe the Parlia<g ref="char:EOLhyphen"/>ment, and his ſending over the Jewels of the Crown, to be pawn<g ref="char:EOLhyphen"/>ed by the Queen for Powder &amp; Ammunition to fight for the Pro<g ref="char:EOLhyphen"/>teſtant Religion, and his ſending for Papiſts horſes, for to ſeat Pro<g ref="char:EOLhyphen"/>teſtant Riders upon, and then give his Commiſſion to thouſands of Papiſts to fight for him, contrary to his many promiſes and pro<g ref="char:EOLhyphen"/>teſtations. And did not <hi>Henderſon</hi> that godly and learned Divine tel him, he had made 1500 Widdows in one morning in <hi>Scotland,</hi> and do you not think there was a deſign by the King and his party to alter the <hi>Militia</hi> of <hi>London,</hi> whoſe faithfulneſſe to the Parl. and Ci<g ref="char:EOLhyphen"/>ty have been tryed to the uttermoſt, in a fiery furnace of ſix years Warres; And have you forgot the Kings ſecret compliance with Secretary <hi>Windebank,</hi> in favouring of papiſts &amp; prieſts, &amp;c, whom the Scots call the <hi>Popes Vicar.</hi> And is the Popes Nuncio reſiding here, and his private tranſactions forgotten? And the Cardinals cap ſent to <hi>England,</hi> and the Kings Agents at <hi>Rome,</hi> &amp; his Letter to the Pope, &amp; many other ſecret practiſes in this kind<g ref="char:punc">▪</g> to have brought in popery and Tyranny? And have you forgot the Duke of <hi>Buck<g ref="char:EOLhyphen"/>ingham</hi> the Kings favorite, how wel he managed the <hi>Militia</hi> of this Kingdom, &amp; of the loſſe of <hi>Rochel</hi> in <hi>France,</hi> by the Kings lending his ſhips to the <hi>French K.</hi> &amp; the <hi>Iſle of Ree,</hi> &amp; <hi>Cales Voyage,</hi> &amp; the Grounds and reaſons of the Quarel? And have you forgot that an<g ref="char:EOLhyphen"/>cient &amp; true ſaying, <hi>That ancient Monarchy, is ancient Tyranny?</hi> And ſtick cloſe to thoſe in the Parl. &amp; Army, which ſtand moſt againſt the Kings prerogative, otherwiſe you will never get any to ſerve you, except ſuch perſons as <hi>Henry Jermin,</hi> and <hi>Jack Craffes,</hi> it is your diſpoſition alwayes to be murmuring at your preſent condi<g ref="char:EOLhyphen"/>tion.</p>
+            <pb n="4" facs="tcp:162509:4"/>
+            <p>Did ever Parliament take more pains, &amp; ventured their lives and eſtates for you then this Par. hath done, againſt all unlimited and Prerogative power, claimed by the King or Clergie over them? And were not honeſt and active men, ever in former time cal<g ref="char:EOLhyphen"/>led Puritans, if they had but publique ſpirits, to ſtand for the li<g ref="char:EOLhyphen"/>berty of the Subject? and then Round heads, and of late Indepen<g ref="char:EOLhyphen"/>dents, whatſoever their opinions be, becauſe our enemies call them ſo, and by this cunning and ſubtle pretence, divers of your wel-affected Citizens have been aiding and aſſiſting to them in their Councels and actions, indevouring to deſtroy and diſgrace thoſe that have been the moſt eminent inſtruments under God to ſave us, and this City and Kingdom from Ruine and deſtruction: And this in plain Engliſh is the great offence that hath ſo much loſt them in your good opinion and affection; And can any rea<g ref="char:EOLhyphen"/>ſonable man think <hi>Antichriſt</hi> lives onely at <hi>Rome,</hi> &amp; that we have ſcared him out of <hi>Engl.</hi> by hanging up half a ſcore for the <hi>Powder<g ref="char:EOLhyphen"/>plot.</hi> But upon further ſearch he was found going to Church with the King, where I ſaw him as buſie as he could be bowing to the Altar, and reading in the Common Prayer book, and ſinging the Letany, and about a great deal more of ſuch ſtuffe, and for fear he ſhould not be neer enough, he crept into the Kings bed, and now becauſe the old name of Papiſt, Malignant and Cavaliers are grown ſo odious to the People, therefore this cunning high Prieſt of theirs teacheth them to call themſelves Presbyterians, for he ſaith with ſo doing, and with ſome other tricks he hath, they ſhall gain a conſiderable party both of the City and Cler<g ref="char:EOLhyphen"/>gie, and alſo make a diviſion in the Houſe of Commons, and conſe<g ref="char:EOLhyphen"/>quently in the Kingdome, untill they have gotten the King into their power, and a conſiderable Army of French, and their Catho<g ref="char:EOLhyphen"/>like Brethren of <hi>Ireland</hi> about them, and then he will put the Scots in mind they were the beginners of their troubles; and tell them that it is no deceit to deceive the deceiver, and they will then alſo, as they ſay, put <hi>London</hi> in mind of their former zeal to the Parlia<g ref="char:EOLhyphen"/>ment; and let them know their good King hath alwaies called them a rebellious City, and hath given them the City for their Ar<g ref="char:EOLhyphen"/>rears: And have you forgotten the bloodie maſſacre in <hi>France,</hi> were none killed there think you but Independents, and what kind of Presbyterian government thinke you, you ſhall have ſetled by
+<pb n="5" facs="tcp:162509:4"/>
+               <hi>Langdale</hi> and the Northern Cavaliers, for they are turned Cove<g ref="char:EOLhyphen"/>nanters and have taken the Covenant, and the Iriſh Rebels and Papiſts muſt be aſſiſting to them in this great work; and is it not now come to paſſe as it was in the Biſhops time before this Parlia<g ref="char:EOLhyphen"/>ment, that all thoſe that were very active Common wealths men, and ſtood moſt for the Liberty of the Subjects, were they not cal<g ref="char:EOLhyphen"/>led Puritans, then Roundheads, and of late Independents and Se<g ref="char:EOLhyphen"/>ctaries, &amp;c. ſo that if our common Enemies of our peace have but as much wit as to call you Independents <hi>&amp;c.</hi> according to theſe practiſes it is policy enough to deſtroy you all. And concern<g ref="char:EOLhyphen"/>ing <hi>Ireland</hi> it is cleer by many ſeveral paſſages &amp; by the examination of <hi>Mac carte,</hi> &amp; <hi>Macquire,</hi> &amp;c. that the pretence of men for the King of <hi>Spains</hi> ſervice, a year or two before the Rebellion in <hi>Ireland</hi> was, but a colour to keep ſome in Armes for a foundation of that Rebellion: And have you forgotten the firſt clauſe in the Oath injoyned by the ſupream Catholike councell at <hi>Kilkenny</hi> in <hi>Ireland,</hi> to owe Faith and Allegiance to King <hi>Charles,</hi> and by all meanes to maintain his Royall Prerogative againſt the Puritans in the Par<g ref="char:EOLhyphen"/>liament of <hi>England,</hi> and that they call themſelves the Kings and Queens Army, and that they did nothing but by the Kings com<g ref="char:EOLhyphen"/>mand, <hi>&amp;c.</hi> And the Parliament could not ſo much as obtain a Proclamation againſt them for divers months, though the King was daily preſſed thereunto, and when the King had yeelded that ſome might be printed, there muſt be but forty printed, and the King under his own hand, commanded that none of them muſt be publiſhed without further direction; and did he not in one of his Letters taken at <hi>Nazeby</hi> command the Earl of <hi>Ormond</hi> to give particular thanks to <hi>Muskerry</hi> and <hi>Plunket</hi> the two Arch-rebels in <hi>Ireland,</hi> and have you forgot<g ref="char:EOLhyphen"/>ten how the Earl of <hi>Leyſter</hi> was delayed, and of the Kings re<g ref="char:EOLhyphen"/>fuſing to give the Lord <hi>Brook</hi> and <hi>Wharton</hi> Commiſſion when large Proviſions were made for their journey into <hi>Irelands;</hi> And had not divers of the Iriſh rebels private Paſſes from the King to paſſe from hence into <hi>Ireland</hi> for the Heading of the Rebels there, when all the Ports were ſhut by the King and Parliaments command, and when they wanted Command<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs at the begin<g ref="char:EOLhyphen"/>ing of their Rebellion; and have you forgotten the Iriſh Ge<g ref="char:EOLhyphen"/>nerall <hi>Oneales</hi> letter to <hi>Monro</hi> the Scots Generall there, deſiring
+<pb n="6" facs="tcp:162509:5"/>him that thoſe that could ſhew the beſt Commiſſion from the King might yeeld to each other; and my L. <hi>Digbies</hi> letter, the Kings Secretary, taken when the L. <hi>Taffes</hi> Army in <hi>Ireland</hi> was beaten, in which he writes to him to be carefull in ingaging; for the Kings deſignes and welfare did much depend upon his Army? And have you forgotten the many thouſands of inno<g ref="char:EOLhyphen"/>cent ſouls that were barbarouſly murthered by the Rebels when the Iriſh Rebellion firſt broke out; with their barbarous crueltie to Cattell, &amp;c. and all things that looked like Engliſh, and digging their bones out of their graves; and alſo the often and ſecret and private meetings every day at Whitehall, for 3. moneths together, with the Roman Catholick Commiſſioners, and ſoon after their return into <hi>Ireland</hi> the Rebellion brake out. And becauſe many have forgotten the Commiſſion, which though formerly hath been printed, and affirmed upon Oath to be the true copie, the I riſh ſay they have under black and white from his Majeſty for what they have done and doe, I will conclude with the laſt Branch <hi>verbatim</hi> of this Commiſ<g ref="char:EOLhyphen"/>ſion, as it is printed in the Book called the Myſtery of Ini<g ref="char:EOLhyphen"/>quity.</p>
+            <p>You are to uſe all politick waies and meanes poſſible to poſ<g ref="char:EOLhyphen"/>ſeſſe your ſelves for Our uſe and ſafety of all the Forts and Ca<g ref="char:EOLhyphen"/>ſtles, and places of ſtrength and defence within the ſaid King<g ref="char:EOLhyphen"/>dome, except the places, perſons and eſtates, of Our loyall and loving Subjects the Scots, and alſo to arreſt, and ſeize the goods, eſtates, and perſons of all the Engliſh Proteſtants with<g ref="char:EOLhyphen"/>in the ſaid Kingdom to our uſe: And in your care and ſpeedy performance of this our will and pleaſure, we ſhall perceive your wonted duty and allegiance unto us, which we ſhall accept, and reward in due time: Witneſſe our ſelf at <hi>Edenbo<g ref="char:EOLhyphen"/>rough,</hi> the firſt of <hi>October</hi> in the ſeventeenth yeer of our Reign.</p>
+            <p>And now Reader judge, if it ſtands with divine Providence, after ſo much blood and miſery, to have a bare, and a baſe co<g ref="char:EOLhyphen"/>venanting breaking Accommodation and Peace <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>h this man.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
